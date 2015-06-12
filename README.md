@@ -1,5 +1,5 @@
 # ia-taquin-game-solver
-Taquin game solve by an IA (A* algorithm) for a small project in university
+Taquin game solve by an IA (A* algorithm) written in Java for a small project in university
 
 * **Author:** Louis Barranqueiro
 * **Java:** v1.7
